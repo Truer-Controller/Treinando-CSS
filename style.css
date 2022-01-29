@@ -1,0 +1,11 @@
+@import 'https://fonts.googleapis.com/css2?family=Comforter&family=Dongle:wght@700&display=swap';
+
+h1{
+    color: blue;
+    font-family: 'Comforter', cursive;
+    font-family: 'Dongle', sans-serif;
+}
+
+strong{
+    color: red;
+}
